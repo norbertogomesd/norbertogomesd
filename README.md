@@ -1,6 +1,6 @@
 # Hi, I'm Norberto Gomes de Araujo 👋
 
-I hold a Bachelor's degree in Fisheries and Marine Science from UNTL, Timor-Leste, and I'm currently pursuing a Master's in Marine Conservation at Padjadjaran University, Indonesia. My passion lies in **Marine Conservation**, **Blue Carbon**, and **Sustainable Ocean Management**. 
+I hold a Bachelor's degree in Fisheries and Marine Science from UNTL, Timor-Leste. My passion lies in Marine Conservation, Blue Carbon, and Sustainable Ocean Management.
 
 ## 🔭 I’m currently working on:
 - Developing sustainable solutions for marine ecosystems.
@@ -18,7 +18,7 @@ I hold a Bachelor's degree in Fisheries and Marine Science from UNTL, Timor-Lest
 ## 💬 How to reach me:
 - Email: [norbertogomesd@gmail.com](mailto:norbertogomesd@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/norberto16/](https://www.linkedin.com/in/norberto16/)
-- Phone: +670 74189885 (Timor-Leste) / +628815244842 (Indonesia)
+- Phone: +670 74189885 (Timor-Leste) 
 
 ## ⚡ Fun fact:
 - I'm passionate about marine ecosystems, and in my free time, I enjoy discussing ocean sustainability and climate change.
@@ -26,7 +26,6 @@ I hold a Bachelor's degree in Fisheries and Marine Science from UNTL, Timor-Lest
 ---
 
 ### Education:
-- **Master’s in Marine Conservation** (2024 - 2025) – Universitas Padjadjaran, Indonesia
 - **Bachelor’s in Fisheries and Marine Science** (2018 - 2023) – Universidade Nacional Timor-Lorosa’e, Timor-Leste
 - **High School Diploma (Science Program)** (2015 - 2017) – Escola Secundária Geral No. 2 Malibaca Yamato, Timor-Leste
 
